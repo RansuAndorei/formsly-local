@@ -1,11 +1,7 @@
-import { Container, Title } from "@mantine/core";
+import HomePage from "@/components/HomePage/HomePage";
 
-const HomePage = () => {
-  return (
-    <Container>
-      <Title>Home Page</Title>
-    </Container>
-  );
+const Page = () => {
+  return <HomePage />;
 };
 
-export default HomePage;
+export default Page;
