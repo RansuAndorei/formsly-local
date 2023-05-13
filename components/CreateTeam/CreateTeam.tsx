@@ -8,4 +8,4 @@ const CreateTeamPage = () => {
   );
 };
 
-export default TeamInvitationPage;
+export default CreateTeamPage;
